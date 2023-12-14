@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.80.1](https://github.com/Snowflake-Labs/terraform-provider-snowflake/compare/v0.80.0...v0.80.1) (2023-12-14)
+
+
+### 🔧 **Misc**
+
+* Bump go to 1.21 ([#2267](https://github.com/Snowflake-Labs/terraform-provider-snowflake/issues/2267)) ([6b852c2](https://github.com/Snowflake-Labs/terraform-provider-snowflake/commit/6b852c2ba6b1348ba83ec2e2190e8175371524be))
+
 ## [0.80.0](https://github.com/Snowflake-Labs/terraform-provider-snowflake/compare/v0.79.1...v0.80.0) (2023-12-13)
 
 
